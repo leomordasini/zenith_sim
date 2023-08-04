@@ -17,7 +17,7 @@ Lorem Ipsum
 ## Call to Action
 
 After you've read the primer and have familiarized yourself with this opportunity, you can submit an idea on how 
-to solve the above blockers by filling out this <a href="/idea_submission_template">idea submission template</a> and submitting as a PR in the respective opportunity folder. 
+to solve the above blockers by filling out this <a href="idea_submission_template.md">idea submission template</a> and submitting as a PR in the respective opportunity folder. 
 
 ## Brain Trust Vetting
 
